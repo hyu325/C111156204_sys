@@ -16,4 +16,4 @@
 print("hello world")
 ```
 ***
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/cHHLHGNpCSA"></iframe>
+![GITHUB]https://github.com/hyu325/C111156204_sys/blob/main/nkust.png
