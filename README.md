@@ -16,4 +16,4 @@
 print("hello world")
 ```
 ***
-![GITHUB]https://github.com/hyu325/C111156204_sys/blob/main/nkust.png
+![GITHUB](https://github.com/hyu325/C111156204_sys/blob/main/nkust.png,"nkust")
