@@ -15,4 +15,4 @@
 print("hello world")
 ```
 ***
-![GITHUB](https://github.com/hyu325/C111156204_sys/blob/main/nkust.png "nkust")
+![GITHUB](https://github.com/hyu325/C111156204_sys/blob/main/imgs/nkust.png "nkust")
