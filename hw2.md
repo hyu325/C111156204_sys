@@ -7,4 +7,4 @@
 ![GITHUB](https://github.com/hyu325/C111156204_sys/blob/main/imgs/gantt.png "gantt")
 ***
 #CPM
-![GITHUB](https://github.com/hyu325/C111156204_sys/blob/main/imgs/cpm.png "cpm")
+![GITHUB](https://github.com/hyu325/C111156204_sys/blob/main/imgs/cpm.jpg "cpm")
